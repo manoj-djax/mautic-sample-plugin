@@ -1,6 +1,6 @@
 {
     "name": "manoj-djax/mautic-simple-plugin",
-    "type": "composer-plugin",
+    "type": "mautic-plugin",
     "license": "GNU",
     "authors": [
         {
@@ -8,6 +8,8 @@
             "email": "manoj.dreamajax.com@gmail.com"
         }
     ],
-    "minimum-stability": "stable",
-    "require": {}
+    "minimum-stability": "dev",
+    "require": {
+        "mautic/composer-plugin": "^1.0"
+    }
 }
