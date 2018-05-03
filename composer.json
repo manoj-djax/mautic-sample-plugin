@@ -1,0 +1,15 @@
+{
+    "name": "manoj-djax/mautic-simple-plugin",
+    "type": "mautic-plugin",
+    "license": "GNU",
+    "authors": [
+        {
+            "name": "manoj",
+            "email": "manoj.dreamajax.com@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "mautic/composer-plugin": "^1.0"
+    }
+}
