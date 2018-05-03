@@ -1,7 +1,6 @@
 {
     "name": "manoj-djax/mautic-simple-plugin",
     "type": "mautic-plugin",
-    "license": "GNU",
     "authors": [
         {
             "name": "manoj",
