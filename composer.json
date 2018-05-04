@@ -1,13 +1,7 @@
 {
-    "name": "manoj-djax/mautic-simple-plugin",
-    "type": "mautic-plugin",
-    "authors": [
-        {
-            "name": "manoj",
-            "email": "manoj.dreamajax.com@gmail.com"
-        }
-    ],
-    "require": {
-        "mautic/composer-plugin": "^1.0"
-    }
+  "name": "manoj/mautic-sample-plugin/new/master",
+  "type": "mautic-plugin",
+  "require": {
+    "mautic/composer-plugin": "^1.0"
+  }
 }
